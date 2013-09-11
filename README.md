@@ -1,7 +1,7 @@
 # Bones Based Starting Point
 __A Lightweight Wordpress Development Theme__
 
-Pale Fire Design's modifications to Eddie Machado's Bones theme. 
+[Pale Fire Design's](http://palefiredesign.com) modifications to Eddie Machado's Bones theme. 
 
 Special Thanks to:
 * Eddie Machado for the original Bones design
